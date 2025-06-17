@@ -1,5 +1,5 @@
 ---
-title: "TWCF Intrepid Experiment 2a blind spot simulations"
+title: "TWCF Intrepid Experiment 2a staircase simulation"
 author: "Clement Abbatecola"
 date: "`r Sys.Date()`"
 output: pdf_document
